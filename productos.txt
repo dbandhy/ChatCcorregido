@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Lápiz",
+    "price": "40",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 1
+  },
+  {
+    "title": "caja",
+    "price": "789",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_834661-MLA31589923170_072019-O.jpg",
+    "id": 2
+  },
+  {
+    "title": "epasda",
+    "price": "789",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_834661-MLA31589923170_072019-O.jpg",
+    "id": 3
+  },
+  {
+    "title": "sadsad",
+    "price": "-1",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 4
+  },
+  {
+    "title": "sadsad",
+    "price": "-1",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 5
+  },
+  {
+    "title": "1",
+    "price": "2",
+    "thumbnail": "Ej: https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 6
+  },
+  {
+    "title": "1",
+    "price": "2",
+    "thumbnail": "Ej: https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 7
+  },
+  {
+    "title": "1",
+    "price": "2",
+    "thumbnail": "Ej: https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 8
+  },
+  {
+    "title": "a",
+    "price": "1",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "id": 9
+  },
+  {
+    "titulo": {
+      "title": "fds",
+      "price": "3",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png"
+    },
+    "id": 10
+  },
+  {
+    "titulo": {
+      "title": "prueba",
+      "price": "8",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png"
+    },
+    "id": 11
+  },
+  {
+    "titulo": {
+      "title": "prueba",
+      "price": "1",
+      "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png"
+    },
+    "id": 12
+  }
+]
